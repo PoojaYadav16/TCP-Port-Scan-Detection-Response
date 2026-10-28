@@ -1,6 +1,6 @@
 # TCP Port Scan Detection and Incident Response Using Wireshark
 
-![Project Overview](TCP Port Scan project image.png)
+![Project Overview](TCP%20Port%20Scan%20project%20image.png)
 
 ![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
 ![Nmap](https://img.shields.io/badge/Tool-Nmap-green)
